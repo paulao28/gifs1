@@ -14,7 +14,7 @@ var modelos = [
     {
         type: "simples",
         model: "03",
-        img: "https://i.postimg.cc/NF0bnxsy/gif-01.gif"
+        img: "https://i.postimg.cc/zvwzdhQ9/invert.gif"
     },
     {
         type: "simples",
