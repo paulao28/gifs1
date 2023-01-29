@@ -65,7 +65,7 @@ var modelos = [
         type: "simples",
         model: "13",
         img: "https://i.postimg.cc/zvXHLQG0/13.gif"
-    },
+   
     },
     {
         type: "casal",
