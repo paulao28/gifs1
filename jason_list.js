@@ -19,7 +19,42 @@ var modelos = [
     {
         type: "simples",
         model: "04",
-        img: "https://i.postimg.cc/NF0bnxsy/gif-01.gif"
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "05",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "06",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "07",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "08",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "09",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "10",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        },
+    {
+        type: "simples",
+        model: "11",
+        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
     },
     {
         type: "casal",
