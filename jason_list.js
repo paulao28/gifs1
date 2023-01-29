@@ -24,22 +24,22 @@ var modelos = [
     {
         type: "simples",
         model: "05",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/rsn059dc/5.gif"
         },
     {
         type: "simples",
         model: "06",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/MG7n9wc9/6.gif"
         },
     {
         type: "simples",
         model: "07",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/ZRjChLx3/7.gif"
         },
     {
         type: "simples",
         model: "08",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/fLMJFPmD/8.gif"
         },
     {
         type: "simples",
@@ -54,7 +54,18 @@ var modelos = [
     {
         type: "simples",
         model: "11",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/htJxbNbY/11.gif"
+        },
+       {
+        type: "simples",
+        model: "12",
+        img: "https://i.postimg.cc/50mF2JbX/12.gif"
+    },
+     {
+        type: "simples",
+        model: "13",
+        img: "https://i.postimg.cc/zvXHLQG0/13.gif"
+    },
     },
     {
         type: "casal",
