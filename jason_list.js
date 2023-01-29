@@ -65,6 +65,16 @@ var modelos = [
         type: "simples",
         model: "13",
         img: "https://i.postimg.cc/zvXHLQG0/13.gif"
+         },
+    {
+        type: "simples",
+        model: "14",
+        img: "https://i.postimg.cc/bw5z1wq7/14.gif"
+         },
+    {
+        type: "simples",
+        model: "15",
+        img: "https://i.postimg.cc/DfQyRhcG/15.gif"
    
     },
     {
