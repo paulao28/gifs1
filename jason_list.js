@@ -79,23 +79,124 @@ var modelos = [
     },
     {
         type: "casal",
-        model: "05",
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
-    },
-    {
-        type: "casal",
         model: "06",
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/7Zc19Q3b/06.gif"
     },
     {
         type: "casal",
         model: "07",
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/v8WPBMWh/07.gif"
     },
     {
         type: "casal",
         model: "08",
-        img: "https://i.postimg.cc/VLsgGX5v/01.gif"
+        img: "https://i.postimg.cc/c4xcL311/08.gif"
+        },
+        {
+        type: "casal",
+        model: "09",
+        img: "https://i.postimg.cc/vZShjmsY/09.gif"
+             },
+        {
+        type: "casal",
+        model: "10",
+        img: "https://i.postimg.cc/KjJBM9cG/10.gif"
+             },
+        {
+        type: "casal",
+        model: "11",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "12",
+        img: "https://i.postimg.cc/wv5h6qSs/12.gif"
+             },
+        {
+        type: "casal",
+        model: "12",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "13",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "14",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "15",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "16",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "17",
+        img: "https://i.postimg.cc/"
+             },
+        {
+        type: "casal",
+        model: "18",
+        img: "https://i.postimg.cc/PJk24Fk1/18.gif"
+             },
+        {
+        type: "casal",
+        model: "19",
+        img: "https://i.postimg.cc/pdpGXFZ5/19-MConverter-eu.gif"
+             },
+        {
+        type: "casal",
+        model: "20",
+        img: "https://i.postimg.cc/rp3hdwnn/20.gif"
+             },
+        {
+        type: "casal",
+        model: "21",
+        img: "https://i.postimg.cc/gjvBbbKM/21.gif"
+             },
+        {
+        type: "casal",
+        model: "22",
+        img: "https://i.postimg.cc/9QxghpGj/22.gif"
+             },
+        {
+        type: "casal",
+        model: "23",
+        img: "https://i.postimg.cc/7YnQBDhh/23.gif"
+             },
+        {
+        type: "casal",
+        model: "24",
+        img: "https://i.postimg.cc/v89KV5dW/24.gif"
+             },
+        {
+        type: "casal",
+        model: "25",
+        img: "https://i.postimg.cc/j5fMyYBs/25.gif"
+             },
+        {
+        type: "casal",
+        model: "26",
+        img: "https://i.postimg.cc/HnGPNkbc/26.gif"
+             },
+        {
+        type: "casal",
+        model: "27",
+        img: "https://i.postimg.cc/Z5j2qZz2/27.gif"
+   
+    },
+    {
+        type: "casal",
+        model: "28",
+        img: "https://i.postimg.cc/GtY63ybx/28.gif"
     },
     {
         type: "nome",
