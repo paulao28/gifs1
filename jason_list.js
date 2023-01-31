@@ -112,20 +112,16 @@ var modelos = [
         model: "12",
         img: "https://i.postimg.cc/wv5h6qSs/12.gif"
              },
-        {
-        type: "casal",
-        model: "12",
-        img: "https://i.postimg.cc/"
-             },
+        
         {
         type: "casal",
         model: "13",
-        img: "https://i.postimg.cc/"
+        img: "https://i.postimg.cc/FR9BXHR7/11.gif"
              },
         {
         type: "casal",
         model: "14",
-        img: "https://i.postimg.cc/"
+        img: "https://i.postimg.cc/1z6bGdgr/14.gif"
              },
         {
         type: "casal",
