@@ -126,7 +126,7 @@ var modelos = [
              },
   { type: "casal",
         model: "00",
-           class="box-gif-animate" style="background-img:(https://oligifs.com/resources/view/assets/gifs/62025d2670116.png"
+           class="box-gif-animate" ="background-img:(https://oligifs.com/resources/view/assets/gifs/62025d2670116.png"
     },
     
     
