@@ -136,7 +136,7 @@ var modelos = [
         {
         type: "casal",
         model: "17",
-        img: "https://i.postimg.cc/"
+        img: "https://oligifs.com/resources/view/assets/gifs/62025f01eff58.png"
              },
         {
         type: "casal",
