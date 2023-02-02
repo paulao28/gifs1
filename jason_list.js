@@ -124,13 +124,9 @@ var modelos = [
         img: "https://i.postimg.cc/1z6bGdgr/14.gif"
            
              },
-  { class="card-box gif">
-       class="content-img-card">
-           class="box-gif-animate" style="background-image:url(https://oligifs.com/resources/view/assets/gifs/62025d2670116.png);
-            background-position:left top;
-            width:80px;
-            height:80px;
-            animation:mov_gif 10s steps(99) infinite;">
+  { type: "casal",
+        model: "00",
+           class="box-gif-animate" style="background-img:(https://oligifs.com/resources/view/assets/gifs/62025d2670116.png"
     },
     
     
