@@ -105,7 +105,7 @@ var modelos = [
         {
         type: "casal",
         model: "11",
-        img: "https://i.postimg.cc/FR9BXHR7/11.gif"
+        img: "https://i.postimg.cc/qBQ0jc0Q/11-1.gif"
              },
         {
         type: "casal",
