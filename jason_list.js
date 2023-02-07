@@ -129,17 +129,17 @@ var modelos = [
         {
         type: "casal",
         model: "15",
-        img: "https://i.postimg.cc/"
+        img: "https://i.postimg.cc/7LKKJLSH/15.gif"
              },
         {
         type: "casal",
         model: "16",
-        img: "https://i.postimg.cc/"
+        img: "https://i.postimg.cc/FHgLBJBp/16.gif"
              },
         {
         type: "casal",
         model: "17",
-        img: "https://oligifs.com/resources/view/assets/gifs/62025f01eff58.png"
+        img: "https://i.postimg.cc/NFHDn7SF/17.gif"
              },
         {
         type: "casal",
@@ -196,6 +196,37 @@ var modelos = [
         type: "casal",
         model: "28",
         img: "https://i.postimg.cc/GtY63ybx/28.gif"
+        
+    },
+    {
+        type: "casal",
+        model: "29",
+        img: "https://i.postimg.cc/tTfDDmr8/29.gif"
+    },
+    {
+        type: "casal",
+        model: "30",
+        img: "https://i.postimg.cc/fRxcQPJx/30.gif"
+    },
+    {
+        type: "casal",
+        model: "31",
+        img: "https://i.postimg.cc/vBS9vFNd/31.gif"
+    },
+    {
+        type: "casal",
+        model: "32",
+        img: "https://i.postimg.cc/9Mzw0gFg/32.gif"
+    },
+    {
+        type: "casal",
+        model: "33",
+        img: "https://i.postimg.cc/8k2t69f6/33.gif"
+    },
+    {
+        type: "casal",
+        model: "34",
+        img: "https://i.postimg.cc/fWt8kDys/34.gif"
     },
     {
         type: "nome",
