@@ -9,17 +9,17 @@ var modelos = [
     {
         type: "simples",
         model: "02",
-        img: "https://i.postimg.cc/K4SrXy4V/invert.gif"
+        img: "https://i.postimg.cc/y8pftRsm/02.gif"
     },
     {
         type: "simples",
         model: "03",
-        img: "https://i.postimg.cc/zvwzdhQ9/invert.gif"
+        img: "https://i.postimg.cc/kX9hb9TY/03.gif"
     },
     {
         type: "simples",
         model: "04",
-        img: "https://i.postimg.cc/vHdvm2Qw/invert.gif"
+        img: "https://i.postimg.cc/htty2sWs/04.gif"
         },
     {
         type: "simples",
@@ -328,3 +328,4 @@ var modelos = [
         img: "https://i.postimg.cc/VLsgGX5v/01.gif"
     }
 ]
+
