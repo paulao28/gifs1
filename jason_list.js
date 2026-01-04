@@ -24,32 +24,32 @@ var modelos = [
     {
         type: "simples",
         model: "05",
-        img: "https://i.postimg.cc/rsn059dc/5.gif"
+        img: "https://xatimg.com/image/A1pzMnQvqI14.gif"
         },
     {
         type: "simples",
         model: "06",
-        img: "https://i.postimg.cc/MG7n9wc9/6.gif"
+        img: "https://i.postimg.cc/J4F8cGSh/06.gif"
         },
     {
         type: "simples",
         model: "07",
-        img: "https://i.postimg.cc/ZRjChLx3/7.gif"
+        img: "https://i.postimg.cc/0jQg7sfp/07.gif"
         },
     {
         type: "simples",
         model: "08",
-        img: "https://i.postimg.cc/fLMJFPmD/8.gif"
+        img: "https://i.postimg.cc/nrwykPRT/8.gif"
         },
     {
         type: "simples",
         model: "09",
-        img: "https://i.postimg.cc/PfWCWYp1/09.gif"
+        img: "https://i.postimg.cc/zvPsjctd/09.gif"
         },
     {
         type: "simples",
         model: "10",
-        img: "https://i.postimg.cc/W3WT8pVL/10.gif"
+        img: "https://i.postimg.cc/5ykh3R7s/10.gif"
         },
     {
         type: "simples",
@@ -328,5 +328,6 @@ var modelos = [
         img: "https://i.postimg.cc/VLsgGX5v/01.gif"
     }
 ]
+
 
 
